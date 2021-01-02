@@ -8,5 +8,7 @@ public class Driver {
 		System.out.println(g.breadthFirstSearch(1));
 		System.out.println(g.depthFirstSearch(1));
 		
+		System.out.println("Checking to see the changes!");
+		
 	}
 }
